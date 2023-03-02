@@ -6,7 +6,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy": "gh-pages --dist dist --branch gh-pages"
+    "deploy": "gh-pages --dist dist --branch historiasmalucas"
   },
   "dependencies": {
     "@popperjs/core": "^2.11.6",
