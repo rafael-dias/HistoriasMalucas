@@ -113,7 +113,7 @@ export default {
 <template>
   <nav class="navbar navbar-dark bg-dark">
   <div class="container-fluid d-flex justify-content-center">
-    <img src="logo.png" alt="" class="img-fluid">
+    <img src="/logo.png" alt="" class="img-fluid">
     <!-- <span class="navbar-brand mb-0 h1">Historias Malucas</span> -->
   </div>
 </nav>
